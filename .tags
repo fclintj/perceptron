@@ -1,0 +1,642 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+Analyzing the Data	report/perceptron.tex	/^        \\section{Discussion Questions}$/;"	u
+BASE	perceptron.c	154;"	d	file:
+CYTHON_ABI	perceptron.c	10;"	d	file:
+CYTHON_ASSUME_SAFE_MACROS	perceptron.c	136;"	d	file:
+CYTHON_ASSUME_SAFE_MACROS	perceptron.c	62;"	d	file:
+CYTHON_ASSUME_SAFE_MACROS	perceptron.c	63;"	d	file:
+CYTHON_ASSUME_SAFE_MACROS	perceptron.c	92;"	d	file:
+CYTHON_AVOID_BORROWED_REFS	perceptron.c	133;"	d	file:
+CYTHON_AVOID_BORROWED_REFS	perceptron.c	60;"	d	file:
+CYTHON_AVOID_BORROWED_REFS	perceptron.c	61;"	d	file:
+CYTHON_AVOID_BORROWED_REFS	perceptron.c	89;"	d	file:
+CYTHON_COMPILING_IN_CPYTHON	perceptron.c	104;"	d	file:
+CYTHON_COMPILING_IN_CPYTHON	perceptron.c	47;"	d	file:
+CYTHON_COMPILING_IN_CPYTHON	perceptron.c	73;"	d	file:
+CYTHON_COMPILING_IN_PYPY	perceptron.c	102;"	d	file:
+CYTHON_COMPILING_IN_PYPY	perceptron.c	45;"	d	file:
+CYTHON_COMPILING_IN_PYPY	perceptron.c	71;"	d	file:
+CYTHON_COMPILING_IN_PYSTON	perceptron.c	103;"	d	file:
+CYTHON_COMPILING_IN_PYSTON	perceptron.c	46;"	d	file:
+CYTHON_COMPILING_IN_PYSTON	perceptron.c	72;"	d	file:
+CYTHON_FALLTHROUGH	perceptron.c	401;"	d	file:
+CYTHON_FALLTHROUGH	perceptron.c	403;"	d	file:
+CYTHON_FALLTHROUGH	perceptron.c	408;"	d	file:
+CYTHON_FALLTHROUGH	perceptron.c	410;"	d	file:
+CYTHON_FAST_PYCALL	perceptron.c	100;"	d	file:
+CYTHON_FAST_PYCALL	perceptron.c	145;"	d	file:
+CYTHON_FAST_PYCALL	perceptron.c	68;"	d	file:
+CYTHON_FAST_PYCALL	perceptron.c	69;"	d	file:
+CYTHON_FAST_PYCALL	perceptron.c	99;"	d	file:
+CYTHON_FAST_PYCCALL	perceptron.c	149;"	d	file:
+CYTHON_FAST_THREAD_STATE	perceptron.c	142;"	d	file:
+CYTHON_FAST_THREAD_STATE	perceptron.c	66;"	d	file:
+CYTHON_FAST_THREAD_STATE	perceptron.c	67;"	d	file:
+CYTHON_FAST_THREAD_STATE	perceptron.c	97;"	d	file:
+CYTHON_FAST_THREAD_STATE	perceptron.c	98;"	d	file:
+CYTHON_FORMAT_SSIZE_T	perceptron.c	161;"	d	file:
+CYTHON_INLINE	perceptron.c	417;"	d	file:
+CYTHON_INLINE	perceptron.c	419;"	d	file:
+CYTHON_INLINE	perceptron.c	421;"	d	file:
+CYTHON_INLINE	perceptron.c	423;"	d	file:
+CYTHON_INLINE	perceptron.c	425;"	d	file:
+CYTHON_MAYBE_UNUSED_VAR	perceptron.c	/^     template<class T> void CYTHON_MAYBE_UNUSED_VAR( const T& ) { }$/;"	f
+CYTHON_MAYBE_UNUSED_VAR	perceptron.c	374;"	d	file:
+CYTHON_NCP_UNUSED	perceptron.c	379;"	d	file:
+CYTHON_NCP_UNUSED	perceptron.c	381;"	d	file:
+CYTHON_PEP393_ENABLED	perceptron.c	203;"	d	file:
+CYTHON_PEP393_ENABLED	perceptron.c	215;"	d	file:
+CYTHON_REFNANNY	perceptron.c	680;"	d	file:
+CYTHON_RESTRICT	perceptron.c	348;"	d	file:
+CYTHON_RESTRICT	perceptron.c	350;"	d	file:
+CYTHON_RESTRICT	perceptron.c	352;"	d	file:
+CYTHON_RESTRICT	perceptron.c	354;"	d	file:
+CYTHON_UNPACK_METHODS	perceptron.c	139;"	d	file:
+CYTHON_UNPACK_METHODS	perceptron.c	64;"	d	file:
+CYTHON_UNPACK_METHODS	perceptron.c	65;"	d	file:
+CYTHON_UNPACK_METHODS	perceptron.c	95;"	d	file:
+CYTHON_UNUSED	perceptron.c	360;"	d	file:
+CYTHON_UNUSED	perceptron.c	362;"	d	file:
+CYTHON_UNUSED	perceptron.c	365;"	d	file:
+CYTHON_UNUSED	perceptron.c	367;"	d	file:
+CYTHON_USE_ASYNC_SLOTS	perceptron.c	109;"	d	file:
+CYTHON_USE_ASYNC_SLOTS	perceptron.c	110;"	d	file:
+CYTHON_USE_ASYNC_SLOTS	perceptron.c	112;"	d	file:
+CYTHON_USE_ASYNC_SLOTS	perceptron.c	50;"	d	file:
+CYTHON_USE_ASYNC_SLOTS	perceptron.c	51;"	d	file:
+CYTHON_USE_ASYNC_SLOTS	perceptron.c	77;"	d	file:
+CYTHON_USE_ASYNC_SLOTS	perceptron.c	78;"	d	file:
+CYTHON_USE_PYLIST_INTERNALS	perceptron.c	121;"	d	file:
+CYTHON_USE_PYLIST_INTERNALS	perceptron.c	52;"	d	file:
+CYTHON_USE_PYLIST_INTERNALS	perceptron.c	53;"	d	file:
+CYTHON_USE_PYLIST_INTERNALS	perceptron.c	79;"	d	file:
+CYTHON_USE_PYLIST_INTERNALS	perceptron.c	80;"	d	file:
+CYTHON_USE_PYLONG_INTERNALS	perceptron.c	115;"	d	file:
+CYTHON_USE_PYLONG_INTERNALS	perceptron.c	116;"	d	file:
+CYTHON_USE_PYLONG_INTERNALS	perceptron.c	118;"	d	file:
+CYTHON_USE_PYLONG_INTERNALS	perceptron.c	58;"	d	file:
+CYTHON_USE_PYLONG_INTERNALS	perceptron.c	59;"	d	file:
+CYTHON_USE_PYLONG_INTERNALS	perceptron.c	86;"	d	file:
+CYTHON_USE_PYLONG_INTERNALS	perceptron.c	87;"	d	file:
+CYTHON_USE_TYPE_SLOTS	perceptron.c	106;"	d	file:
+CYTHON_USE_TYPE_SLOTS	perceptron.c	48;"	d	file:
+CYTHON_USE_TYPE_SLOTS	perceptron.c	49;"	d	file:
+CYTHON_USE_TYPE_SLOTS	perceptron.c	75;"	d	file:
+CYTHON_USE_UNICODE_INTERNALS	perceptron.c	124;"	d	file:
+CYTHON_USE_UNICODE_INTERNALS	perceptron.c	54;"	d	file:
+CYTHON_USE_UNICODE_INTERNALS	perceptron.c	55;"	d	file:
+CYTHON_USE_UNICODE_INTERNALS	perceptron.c	82;"	d	file:
+CYTHON_USE_UNICODE_WRITER	perceptron.c	127;"	d	file:
+CYTHON_USE_UNICODE_WRITER	perceptron.c	128;"	d	file:
+CYTHON_USE_UNICODE_WRITER	perceptron.c	130;"	d	file:
+CYTHON_USE_UNICODE_WRITER	perceptron.c	56;"	d	file:
+CYTHON_USE_UNICODE_WRITER	perceptron.c	57;"	d	file:
+CYTHON_USE_UNICODE_WRITER	perceptron.c	84;"	d	file:
+CYTHON_USE_UNICODE_WRITER	perceptron.c	85;"	d	file:
+CYTHON_WITHOUT_ASSERTIONS	perceptron.c	477;"	d	file:
+DECREF	perceptron.c	/^    void (*DECREF)(void*, PyObject*, int);$/;"	m	struct:__anon3	file:
+DL_EXPORT	perceptron.c	30;"	d	file:
+DL_IMPORT	perceptron.c	27;"	d	file:
+Data Not Linearly Separable	report/perceptron.tex	/^        Another example is when $a_t = [-1, 90, 90]$. In this case, the step size plays an important role. If the step size is too small, it will take a very long time for the graph to converge. In this case it took 71 iterations and 111 updates. $/;"	u
+Different A Values	report/perceptron.tex	/^        As seen in \\reff{fig:test}, the data appears to be linearly separable. $/;"	u
+Discussion Questions	report/perceptron.tex	/^    \\DeclareDocumentCommand{\\discussion}{} {$/;"	s
+FinishContext	perceptron.c	/^    void (*FinishContext)(void**);$/;"	m	struct:__anon3	file:
+GIVEREF	perceptron.c	/^    void (*GIVEREF)(void*, PyObject*, int);$/;"	m	struct:__anon3	file:
+GOTREF	perceptron.c	/^    void (*GOTREF)(void*, PyObject*, int);$/;"	m	struct:__anon3	file:
+HAVE_LONG_LONG	perceptron.c	35;"	d	file:
+INCREF	perceptron.c	/^    void (*INCREF)(void*, PyObject*, int);$/;"	m	struct:__anon3	file:
+MASK	perceptron.c	155;"	d	file:
+METH_FASTCALL	perceptron.c	187;"	d	file:
+PY_LONG_LONG	perceptron.c	39;"	d	file:
+PY_SSIZE_T_CLEAN	perceptron.c	3;"	d	file:
+Plots of Data	report/perceptron.tex	/^    \\DeclareDocumentCommand{\\dataPlots}{} {$/;"	s
+Program Listings	report/perceptron.tex	/^    \\DeclareDocumentCommand{\\programListing}{} {$/;"	s
+PyBaseString_Type	perceptron.c	269;"	d	file:
+PyBoolObject	perceptron.c	305;"	d	file:
+PyByteArray_Check	perceptron.c	241;"	d	file:
+PyIntObject	perceptron.c	288;"	d	file:
+PyInt_AS_LONG	perceptron.c	298;"	d	file:
+PyInt_AsLong	perceptron.c	297;"	d	file:
+PyInt_AsSsize_t	perceptron.c	299;"	d	file:
+PyInt_AsUnsignedLongLongMask	perceptron.c	301;"	d	file:
+PyInt_AsUnsignedLongMask	perceptron.c	300;"	d	file:
+PyInt_Check	perceptron.c	290;"	d	file:
+PyInt_CheckExact	perceptron.c	291;"	d	file:
+PyInt_FromLong	perceptron.c	294;"	d	file:
+PyInt_FromSize_t	perceptron.c	295;"	d	file:
+PyInt_FromSsize_t	perceptron.c	296;"	d	file:
+PyInt_FromString	perceptron.c	292;"	d	file:
+PyInt_FromUnicode	perceptron.c	293;"	d	file:
+PyInt_Type	perceptron.c	289;"	d	file:
+PyNumber_Int	perceptron.c	302;"	d	file:
+PyObject_ASCII	perceptron.c	266;"	d	file:
+PyObject_Format	perceptron.c	244;"	d	file:
+PyObject_Free	perceptron.c	248;"	d	file:
+PyObject_Malloc	perceptron.c	247;"	d	file:
+PyObject_Realloc	perceptron.c	249;"	d	file:
+PySet_CheckExact	perceptron.c	283;"	d	file:
+PyStringObject	perceptron.c	270;"	d	file:
+PyString_Check	perceptron.c	272;"	d	file:
+PyString_CheckExact	perceptron.c	273;"	d	file:
+PyString_Type	perceptron.c	271;"	d	file:
+PyUnicode_1BYTE_KIND	perceptron.c	216;"	d	file:
+PyUnicode_2BYTE_KIND	perceptron.c	217;"	d	file:
+PyUnicode_4BYTE_KIND	perceptron.c	218;"	d	file:
+PyUnicode_Contains	perceptron.c	238;"	d	file:
+PyUnicode_InternFromString	perceptron.c	309;"	d	file:
+Py_HUGE_VAL	perceptron.c	42;"	d	file:
+Py_OptimizeFlag	perceptron.c	158;"	d	file:
+Py_TPFLAGS_CHECKTYPES	perceptron.c	174;"	d	file:
+Py_TPFLAGS_HAVE_FINALIZE	perceptron.c	183;"	d	file:
+Py_TPFLAGS_HAVE_INDEX	perceptron.c	177;"	d	file:
+Py_TPFLAGS_HAVE_NEWBUFFER	perceptron.c	180;"	d	file:
+Py_hash_t	perceptron.c	/^  typedef long Py_hash_t;$/;"	t	file:
+SHIFT	perceptron.c	153;"	d	file:
+SetupContext	perceptron.c	/^    void* (*SetupContext)(const char*, int, const char*);$/;"	m	struct:__anon3	file:
+_USE_MATH_DEFINES	perceptron.c	430;"	d	file:
+__PYX_BUILD_PY_SSIZE_T	perceptron.c	160;"	d	file:
+__PYX_COMMA	perceptron.c	32;"	d	file:
+__PYX_DEFAULT_STRING_ENCODING	perceptron.c	/^static char* __PYX_DEFAULT_STRING_ENCODING;$/;"	v	file:
+__PYX_DEFAULT_STRING_ENCODING	perceptron.c	485;"	d	file:
+__PYX_DEFAULT_STRING_ENCODING_IS_ASCII	perceptron.c	483;"	d	file:
+__PYX_DEFAULT_STRING_ENCODING_IS_DEFAULT	perceptron.c	484;"	d	file:
+__PYX_ERR	perceptron.c	449;"	d	file:
+__PYX_EXTERN_C	perceptron.c	464;"	d	file:
+__PYX_EXTERN_C	perceptron.c	466;"	d	file:
+__PYX_HAVE_API__perceptron	perceptron.c	471;"	d	file:
+__PYX_HAVE__perceptron	perceptron.c	470;"	d	file:
+__PYX_NAN	perceptron.c	/^static CYTHON_INLINE float __PYX_NAN() {$/;"	f	file:
+__PYX_NAN	perceptron.c	434;"	d	file:
+__PYX_VERIFY_RETURN_INT	perceptron.c	5493;"	d	file:
+__PYX_VERIFY_RETURN_INT_EXC	perceptron.c	5495;"	d	file:
+__PYX__VERIFY_RETURN_INT	perceptron.c	5497;"	d	file:
+__Pyx_AddTraceback	perceptron.c	/^static void __Pyx_AddTraceback(const char *funcname, int c_line,$/;"	f	file:
+__Pyx_BUILTIN_MODULE_NAME	perceptron.c	163;"	d	file:
+__Pyx_BUILTIN_MODULE_NAME	perceptron.c	168;"	d	file:
+__Pyx_CLEAR	perceptron.c	738;"	d	file:
+__Pyx_CLineForTraceback	perceptron.c	/^    static int __Pyx_CLineForTraceback(int c_line) {$/;"	f	file:
+__Pyx_CodeObjectCache	perceptron.c	/^struct __Pyx_CodeObjectCache {$/;"	s	file:
+__Pyx_CodeObjectCacheEntry	perceptron.c	/^} __Pyx_CodeObjectCacheEntry;$/;"	t	typeref:struct:__anon4	file:
+__Pyx_CreateCodeObjectForTraceback	perceptron.c	/^static PyCodeObject* __Pyx_CreateCodeObjectForTraceback($/;"	f	file:
+__Pyx_DECREF	perceptron.c	710;"	d	file:
+__Pyx_DECREF	perceptron.c	722;"	d	file:
+__Pyx_DECREF_SET	perceptron.c	734;"	d	file:
+__Pyx_DefaultClassType	perceptron.c	166;"	d	file:
+__Pyx_DefaultClassType	perceptron.c	171;"	d	file:
+__Pyx_GIVEREF	perceptron.c	712;"	d	file:
+__Pyx_GIVEREF	perceptron.c	724;"	d	file:
+__Pyx_GOTREF	perceptron.c	711;"	d	file:
+__Pyx_GOTREF	perceptron.c	723;"	d	file:
+__Pyx_GetBuiltinName	perceptron.c	/^static PyObject *__Pyx_GetBuiltinName(PyObject *name) {$/;"	f	file:
+__Pyx_GetItemInt	perceptron.c	816;"	d	file:
+__Pyx_GetItemInt_Fast	perceptron.c	/^static CYTHON_INLINE PyObject *__Pyx_GetItemInt_Fast(PyObject *o, Py_ssize_t i, int is_list,$/;"	f	file:
+__Pyx_GetItemInt_Generic	perceptron.c	/^    static CYTHON_INLINE PyObject *__Pyx_GetItemInt_Generic(PyObject *o, PyObject* j) {$/;"	f	file:
+__Pyx_GetItemInt_List	perceptron.c	821;"	d	file:
+__Pyx_GetItemInt_List_Fast	perceptron.c	/^static CYTHON_INLINE PyObject *__Pyx_GetItemInt_List_Fast(PyObject *o, Py_ssize_t i,$/;"	f	file:
+__Pyx_GetItemInt_Tuple	perceptron.c	827;"	d	file:
+__Pyx_GetItemInt_Tuple_Fast	perceptron.c	/^static CYTHON_INLINE PyObject *__Pyx_GetItemInt_Tuple_Fast(PyObject *o, Py_ssize_t i,$/;"	f	file:
+__Pyx_GetModuleGlobalName	perceptron.c	/^static CYTHON_INLINE PyObject *__Pyx_GetModuleGlobalName(PyObject *name) {$/;"	f	file:
+__Pyx_GetStdout	perceptron.c	/^static PyObject *__Pyx_GetStdout(void) {$/;"	f	file:
+__Pyx_INCREF	perceptron.c	709;"	d	file:
+__Pyx_INCREF	perceptron.c	721;"	d	file:
+__Pyx_Import	perceptron.c	/^    static PyObject *__Pyx_Import(PyObject *name, PyObject *from_list, int level) {$/;"	f	file:
+__Pyx_InitCachedBuiltins	perceptron.c	/^static int __Pyx_InitCachedBuiltins(void) {$/;"	f	file:
+__Pyx_InitCachedConstants	perceptron.c	/^static int __Pyx_InitCachedConstants(void) {$/;"	f	file:
+__Pyx_InitGlobals	perceptron.c	/^static int __Pyx_InitGlobals(void) {$/;"	f	file:
+__Pyx_InitStrings	perceptron.c	/^        static int __Pyx_InitStrings(__Pyx_StringTabEntry *t) {$/;"	f	file:
+__Pyx_MODULE_NAME	perceptron.c	935;"	d	file:
+__Pyx_NewRef	perceptron.c	553;"	d	file:
+__Pyx_Owned_Py_None	perceptron.c	554;"	d	file:
+__Pyx_ParseOptionalKeywords	perceptron.c	/^static int __Pyx_ParseOptionalKeywords($/;"	f	file:
+__Pyx_Print	perceptron.c	/^static int __Pyx_Print(PyObject* f, PyObject *arg_tuple, int newline) {$/;"	f	file:
+__Pyx_Print	perceptron.c	/^static int __Pyx_Print(PyObject* stream, PyObject *arg_tuple, int newline) {$/;"	f	file:
+__Pyx_PrintOne	perceptron.c	/^static int __Pyx_PrintOne(PyObject* f, PyObject *o) {$/;"	f	file:
+__Pyx_PrintOne	perceptron.c	/^static int __Pyx_PrintOne(PyObject* stream, PyObject *o) {$/;"	f	file:
+__Pyx_PyAsyncMethodsStruct	perceptron.c	/^    } __Pyx_PyAsyncMethodsStruct;$/;"	t	typeref:struct:__anon1	file:
+__Pyx_PyAsyncMethodsStruct	perceptron.c	333;"	d	file:
+__Pyx_PyBaseString_Check	perceptron.c	276;"	d	file:
+__Pyx_PyBaseString_Check	perceptron.c	279;"	d	file:
+__Pyx_PyBaseString_CheckExact	perceptron.c	277;"	d	file:
+__Pyx_PyBaseString_CheckExact	perceptron.c	280;"	d	file:
+__Pyx_PyBool_FromLong	perceptron.c	555;"	d	file:
+__Pyx_PyByteArray_FromCString	perceptron.c	537;"	d	file:
+__Pyx_PyByteArray_FromString	perceptron.c	518;"	d	file:
+__Pyx_PyByteArray_FromStringAndSize	perceptron.c	519;"	d	file:
+__Pyx_PyBytes_Equals	perceptron.c	/^    static CYTHON_INLINE int __Pyx_PyBytes_Equals(PyObject* s1, PyObject* s2, int equals) {$/;"	f	file:
+__Pyx_PyBytes_FromCString	perceptron.c	536;"	d	file:
+__Pyx_PyBytes_FromString	perceptron.c	520;"	d	file:
+__Pyx_PyBytes_FromStringAndSize	perceptron.c	521;"	d	file:
+__Pyx_PyCFunctionFast	perceptron.c	/^  typedef PyObject *(*__Pyx_PyCFunctionFast) (PyObject *self, PyObject **args, Py_ssize_t nargs);$/;"	t	file:
+__Pyx_PyCFunctionFast	perceptron.c	193;"	d	file:
+__Pyx_PyCFunctionFastWithKeywords	perceptron.c	/^  typedef PyObject *(*__Pyx_PyCFunctionFastWithKeywords) (PyObject *self, PyObject **args,$/;"	t	file:
+__Pyx_PyCFunctionFastWithKeywords	perceptron.c	194;"	d	file:
+__Pyx_PyCFunction_FastCall	perceptron.c	/^static CYTHON_INLINE PyObject * __Pyx_PyCFunction_FastCall(PyObject *func_obj, PyObject **args, Py_ssize_t nargs) {$/;"	f	file:
+__Pyx_PyCFunction_FastCall	perceptron.c	779;"	d	file:
+__Pyx_PyCode_HasFreeVars	perceptron.c	252;"	d	file:
+__Pyx_PyCode_HasFreeVars	perceptron.c	255;"	d	file:
+__Pyx_PyCode_New	perceptron.c	164;"	d	file:
+__Pyx_PyCode_New	perceptron.c	169;"	d	file:
+__Pyx_PyException_Check	perceptron.c	286;"	d	file:
+__Pyx_PyFastCFunction_Check	perceptron.c	197;"	d	file:
+__Pyx_PyFastCFunction_Check	perceptron.c	200;"	d	file:
+__Pyx_PyFrame_SetLineNumber	perceptron.c	253;"	d	file:
+__Pyx_PyFrame_SetLineNumber	perceptron.c	256;"	d	file:
+__Pyx_PyFunction_FastCall	perceptron.c	784;"	d	file:
+__Pyx_PyFunction_FastCallDict	perceptron.c	/^static PyObject *__Pyx_PyFunction_FastCallDict(PyObject *func, PyObject **args, int nargs, PyObject *kwargs) {$/;"	f	file:
+__Pyx_PyFunction_FastCallDict	perceptron.c	789;"	d	file:
+__Pyx_PyFunction_FastCallNoKw	perceptron.c	/^static PyObject* __Pyx_PyFunction_FastCallNoKw(PyCodeObject *co, PyObject **args, Py_ssize_t na,$/;"	f	file:
+__Pyx_PyIndex_AsSsize_t	perceptron.c	/^static CYTHON_INLINE Py_ssize_t __Pyx_PyIndex_AsSsize_t(PyObject* b) {$/;"	f	file:
+__Pyx_PyInt_AddObjC	perceptron.c	/^static PyObject* __Pyx_PyInt_AddObjC(PyObject *op1, PyObject *op2, CYTHON_UNUSED long intval, CYTHON_UNUSED int inplace) {$/;"	f	file:
+__Pyx_PyInt_AddObjC	perceptron.c	847;"	d	file:
+__Pyx_PyInt_AsHash_t	perceptron.c	315;"	d	file:
+__Pyx_PyInt_AsHash_t	perceptron.c	318;"	d	file:
+__Pyx_PyInt_As_int	perceptron.c	/^        static CYTHON_INLINE int __Pyx_PyInt_As_int(PyObject *x) {$/;"	f	file:
+__Pyx_PyInt_As_long	perceptron.c	/^        static CYTHON_INLINE long __Pyx_PyInt_As_long(PyObject *x) {$/;"	f	file:
+__Pyx_PyInt_EqObjC	perceptron.c	/^static PyObject* __Pyx_PyInt_EqObjC(PyObject *op1, PyObject *op2, CYTHON_UNUSED long intval, CYTHON_UNUSED int inplace) {$/;"	f	file:
+__Pyx_PyInt_EqObjC	perceptron.c	863;"	d	file:
+__Pyx_PyInt_FromHash_t	perceptron.c	314;"	d	file:
+__Pyx_PyInt_FromHash_t	perceptron.c	317;"	d	file:
+__Pyx_PyInt_FromSize_t	perceptron.c	/^static CYTHON_INLINE PyObject * __Pyx_PyInt_FromSize_t(size_t ival) {$/;"	f	file:
+__Pyx_PyInt_From_long	perceptron.c	/^        static CYTHON_INLINE PyObject* __Pyx_PyInt_From_long(long value) {$/;"	f	file:
+__Pyx_PyInt_SubtractObjC	perceptron.c	/^static PyObject* __Pyx_PyInt_SubtractObjC(PyObject *op1, PyObject *op2, CYTHON_UNUSED long intval, CYTHON_UNUSED int inplace) {$/;"	f	file:
+__Pyx_PyInt_SubtractObjC	perceptron.c	855;"	d	file:
+__Pyx_PyMethod_New	perceptron.c	321;"	d	file:
+__Pyx_PyMethod_New	perceptron.c	323;"	d	file:
+__Pyx_PyNumber_Divide	perceptron.c	455;"	d	file:
+__Pyx_PyNumber_Divide	perceptron.c	458;"	d	file:
+__Pyx_PyNumber_Float	perceptron.c	571;"	d	file:
+__Pyx_PyNumber_InPlaceDivide	perceptron.c	456;"	d	file:
+__Pyx_PyNumber_InPlaceDivide	perceptron.c	459;"	d	file:
+__Pyx_PyNumber_Int	perceptron.c	567;"	d	file:
+__Pyx_PyNumber_Int	perceptron.c	569;"	d	file:
+__Pyx_PyNumber_IntOrLong	perceptron.c	/^static CYTHON_INLINE PyObject* __Pyx_PyNumber_IntOrLong(PyObject* x) {$/;"	f	file:
+__Pyx_PyObject_AsSString	perceptron.c	533;"	d	file:
+__Pyx_PyObject_AsString	perceptron.c	/^static CYTHON_INLINE const char* __Pyx_PyObject_AsString(PyObject* o) {$/;"	f	file:
+__Pyx_PyObject_AsStringAndSize	perceptron.c	/^static CYTHON_INLINE const char* __Pyx_PyObject_AsStringAndSize(PyObject* o, Py_ssize_t *length) {$/;"	f	file:
+__Pyx_PyObject_AsUString	perceptron.c	534;"	d	file:
+__Pyx_PyObject_AsWritableSString	perceptron.c	531;"	d	file:
+__Pyx_PyObject_AsWritableString	perceptron.c	530;"	d	file:
+__Pyx_PyObject_AsWritableUString	perceptron.c	532;"	d	file:
+__Pyx_PyObject_Call	perceptron.c	/^static CYTHON_INLINE PyObject* __Pyx_PyObject_Call(PyObject *func, PyObject *arg, PyObject *kw) {$/;"	f	file:
+__Pyx_PyObject_Call	perceptron.c	797;"	d	file:
+__Pyx_PyObject_CallMethO	perceptron.c	/^static CYTHON_INLINE PyObject* __Pyx_PyObject_CallMethO(PyObject *func, PyObject *arg) {$/;"	f	file:
+__Pyx_PyObject_CallNoArg	perceptron.c	/^static CYTHON_INLINE PyObject* __Pyx_PyObject_CallNoArg(PyObject *func) {$/;"	f	file:
+__Pyx_PyObject_CallNoArg	perceptron.c	812;"	d	file:
+__Pyx_PyObject_CallOneArg	perceptron.c	/^static CYTHON_INLINE PyObject* __Pyx_PyObject_CallOneArg(PyObject *func, PyObject *arg) {$/;"	f	file:
+__Pyx_PyObject_FromCString	perceptron.c	535;"	d	file:
+__Pyx_PyObject_FromString	perceptron.c	486;"	d	file:
+__Pyx_PyObject_FromStringAndSize	perceptron.c	487;"	d	file:
+__Pyx_PyObject_GetAttrStr	perceptron.c	/^static CYTHON_INLINE PyObject* __Pyx_PyObject_GetAttrStr(PyObject* obj, PyObject* attr_name) {$/;"	f	file:
+__Pyx_PyObject_GetAttrStr	perceptron.c	754;"	d	file:
+__Pyx_PyObject_GetSlice	perceptron.c	/^    static CYTHON_INLINE PyObject* __Pyx_PyObject_GetSlice(PyObject* obj,$/;"	f	file:
+__Pyx_PyObject_IsTrue	perceptron.c	/^static CYTHON_INLINE int __Pyx_PyObject_IsTrue(PyObject* x) {$/;"	f	file:
+__Pyx_PyStr_FromCString	perceptron.c	538;"	d	file:
+__Pyx_PyStr_FromString	perceptron.c	524;"	d	file:
+__Pyx_PyStr_FromString	perceptron.c	527;"	d	file:
+__Pyx_PyStr_FromStringAndSize	perceptron.c	525;"	d	file:
+__Pyx_PyStr_FromStringAndSize	perceptron.c	528;"	d	file:
+__Pyx_PyString_Equals	perceptron.c	881;"	d	file:
+__Pyx_PyString_Equals	perceptron.c	883;"	d	file:
+__Pyx_PyString_Format	perceptron.c	261;"	d	file:
+__Pyx_PyString_Format	perceptron.c	263;"	d	file:
+__Pyx_PyString_FormatSafe	perceptron.c	258;"	d	file:
+__Pyx_PyType_AsAsync	perceptron.c	334;"	d	file:
+__Pyx_PyType_AsAsync	perceptron.c	341;"	d	file:
+__Pyx_PyType_AsAsync	perceptron.c	344;"	d	file:
+__Pyx_PyUnicode_AsUnicode	perceptron.c	552;"	d	file:
+__Pyx_PyUnicode_Concat	perceptron.c	230;"	d	file:
+__Pyx_PyUnicode_Concat	perceptron.c	233;"	d	file:
+__Pyx_PyUnicode_ConcatSafe	perceptron.c	231;"	d	file:
+__Pyx_PyUnicode_ConcatSafe	perceptron.c	234;"	d	file:
+__Pyx_PyUnicode_DATA	perceptron.c	210;"	d	file:
+__Pyx_PyUnicode_DATA	perceptron.c	224;"	d	file:
+__Pyx_PyUnicode_Equals	perceptron.c	/^    static CYTHON_INLINE int __Pyx_PyUnicode_Equals(PyObject* s1, PyObject* s2, int equals) {$/;"	f	file:
+__Pyx_PyUnicode_FormatSafe	perceptron.c	259;"	d	file:
+__Pyx_PyUnicode_FromCString	perceptron.c	539;"	d	file:
+__Pyx_PyUnicode_FromString	perceptron.c	/^static CYTHON_INLINE PyObject* __Pyx_PyUnicode_FromString(const char* c_str) {$/;"	f	file:
+__Pyx_PyUnicode_FromStringAndSize	perceptron.c	619;"	d	file:
+__Pyx_PyUnicode_FromStringAndSize	perceptron.c	621;"	d	file:
+__Pyx_PyUnicode_FromUnicode	perceptron.c	550;"	d	file:
+__Pyx_PyUnicode_FromUnicodeAndLength	perceptron.c	551;"	d	file:
+__Pyx_PyUnicode_GET_LENGTH	perceptron.c	206;"	d	file:
+__Pyx_PyUnicode_GET_LENGTH	perceptron.c	220;"	d	file:
+__Pyx_PyUnicode_IS_TRUE	perceptron.c	213;"	d	file:
+__Pyx_PyUnicode_IS_TRUE	perceptron.c	227;"	d	file:
+__Pyx_PyUnicode_KIND	perceptron.c	209;"	d	file:
+__Pyx_PyUnicode_KIND	perceptron.c	223;"	d	file:
+__Pyx_PyUnicode_MAX_CHAR_VALUE	perceptron.c	208;"	d	file:
+__Pyx_PyUnicode_MAX_CHAR_VALUE	perceptron.c	222;"	d	file:
+__Pyx_PyUnicode_READ	perceptron.c	211;"	d	file:
+__Pyx_PyUnicode_READ	perceptron.c	225;"	d	file:
+__Pyx_PyUnicode_READY	perceptron.c	204;"	d	file:
+__Pyx_PyUnicode_READY	perceptron.c	219;"	d	file:
+__Pyx_PyUnicode_READ_CHAR	perceptron.c	207;"	d	file:
+__Pyx_PyUnicode_READ_CHAR	perceptron.c	221;"	d	file:
+__Pyx_PyUnicode_WRITE	perceptron.c	212;"	d	file:
+__Pyx_PyUnicode_WRITE	perceptron.c	226;"	d	file:
+__Pyx_Py_UNICODE_strlen	perceptron.c	/^static CYTHON_INLINE size_t __Pyx_Py_UNICODE_strlen(const Py_UNICODE *u)$/;"	f	file:
+__Pyx_Py_UNICODE_strlen	perceptron.c	548;"	d	file:
+__Pyx_RaiseArgtupleInvalid	perceptron.c	/^static void __Pyx_RaiseArgtupleInvalid($/;"	f	file:
+__Pyx_RaiseDoubleKeywordsError	perceptron.c	/^static void __Pyx_RaiseDoubleKeywordsError($/;"	f	file:
+__Pyx_RefNanny	perceptron.c	/^  static __Pyx_RefNannyAPIStruct *__Pyx_RefNanny = NULL;$/;"	v	file:
+__Pyx_RefNannyAPIStruct	perceptron.c	/^  } __Pyx_RefNannyAPIStruct;$/;"	t	typeref:struct:__anon3	file:
+__Pyx_RefNannyDeclarations	perceptron.c	693;"	d	file:
+__Pyx_RefNannyDeclarations	perceptron.c	718;"	d	file:
+__Pyx_RefNannyFinishContext	perceptron.c	707;"	d	file:
+__Pyx_RefNannyFinishContext	perceptron.c	720;"	d	file:
+__Pyx_RefNannyImportAPI	perceptron.c	/^static __Pyx_RefNannyAPIStruct *__Pyx_RefNannyImportAPI(const char *modname) {$/;"	f	file:
+__Pyx_RefNannySetupContext	perceptron.c	695;"	d	file:
+__Pyx_RefNannySetupContext	perceptron.c	704;"	d	file:
+__Pyx_RefNannySetupContext	perceptron.c	719;"	d	file:
+__Pyx_StringTabEntry	perceptron.c	/^                const char is_unicode; const char is_str; const char intern; } __Pyx_StringTabEntry;$/;"	t	typeref:struct:__anon2	file:
+__Pyx_TypeCheck	perceptron.c	285;"	d	file:
+__Pyx_XCLEAR	perceptron.c	739;"	d	file:
+__Pyx_XDECREF	perceptron.c	714;"	d	file:
+__Pyx_XDECREF	perceptron.c	726;"	d	file:
+__Pyx_XDECREF_SET	perceptron.c	730;"	d	file:
+__Pyx_XGIVEREF	perceptron.c	716;"	d	file:
+__Pyx_XGIVEREF	perceptron.c	728;"	d	file:
+__Pyx_XGOTREF	perceptron.c	715;"	d	file:
+__Pyx_XGOTREF	perceptron.c	727;"	d	file:
+__Pyx_XINCREF	perceptron.c	713;"	d	file:
+__Pyx_XINCREF	perceptron.c	725;"	d	file:
+__Pyx__PyObject_CallOneArg	perceptron.c	/^static PyObject* __Pyx__PyObject_CallOneArg(PyObject *func, PyObject *arg) {$/;"	f	file:
+__Pyx_char2wchar	perceptron.c	/^__Pyx_char2wchar(char* arg)$/;"	f	file:
+__Pyx_check_binary_version	perceptron.c	/^        static int __Pyx_check_binary_version(void) {$/;"	f	file:
+__Pyx_fits_Py_ssize_t	perceptron.c	490;"	d	file:
+__Pyx_init_sys_getdefaultencoding_params	perceptron.c	/^static int __Pyx_init_sys_getdefaultencoding_params(void) {$/;"	f	file:
+__Pyx_long_cast	perceptron.c	489;"	d	file:
+__Pyx_pretend_to_initialize	perceptron.c	/^static CYTHON_INLINE void __Pyx_pretend_to_initialize(void* ptr) { (void)ptr; }$/;"	f	file:
+__Pyx_sst_abs	perceptron.c	502;"	d	file:
+__Pyx_sst_abs	perceptron.c	504;"	d	file:
+__Pyx_sst_abs	perceptron.c	506;"	d	file:
+__Pyx_sst_abs	perceptron.c	508;"	d	file:
+__Pyx_sst_abs	perceptron.c	510;"	d	file:
+__Pyx_sst_abs	perceptron.c	512;"	d	file:
+__Pyx_sst_abs	perceptron.c	514;"	d	file:
+__Pyx_sys_getdefaultencoding_not_ascii	perceptron.c	/^static int __Pyx_sys_getdefaultencoding_not_ascii;$/;"	v	file:
+__Pyx_truncl	perceptron.c	443;"	d	file:
+__Pyx_truncl	perceptron.c	445;"	d	file:
+__Pyx_uchar_cast	perceptron.c	488;"	d	file:
+__Pyx_void_to_None	perceptron.c	384;"	d	file:
+__cdecl	perceptron.c	20;"	d	file:
+__fastcall	perceptron.c	23;"	d	file:
+__has_attribute	perceptron.c	326;"	d	file:
+__has_cpp_attribute	perceptron.c	329;"	d	file:
+__pyx_PyFloat_AsDouble	perceptron.c	561;"	d	file:
+__pyx_PyFloat_AsDouble	perceptron.c	563;"	d	file:
+__pyx_PyFloat_AsFloat	perceptron.c	565;"	d	file:
+__pyx_b	perceptron.c	/^static PyObject *__pyx_b;$/;"	v	file:
+__pyx_bisect_code_objects	perceptron.c	/^    static int __pyx_bisect_code_objects(__Pyx_CodeObjectCacheEntry* entries, int count, int code_line) {$/;"	f	file:
+__pyx_builtin_max	perceptron.c	/^static PyObject *__pyx_builtin_max;$/;"	v	file:
+__pyx_builtin_min	perceptron.c	/^static PyObject *__pyx_builtin_min;$/;"	v	file:
+__pyx_builtin_range	perceptron.c	/^static PyObject *__pyx_builtin_range;$/;"	v	file:
+__pyx_cfilenm	perceptron.c	/^static const char * __pyx_cfilenm= __FILE__;$/;"	v	file:
+__pyx_clineno	perceptron.c	/^static int __pyx_clineno = 0;$/;"	v	file:
+__pyx_code_cache	perceptron.c	/^static struct __Pyx_CodeObjectCache __pyx_code_cache = {0,0,NULL};$/;"	v	typeref:struct:__Pyx_CodeObjectCache	file:
+__pyx_codeobj__24	perceptron.c	/^static PyObject *__pyx_codeobj__24;$/;"	v	file:
+__pyx_codeobj__26	perceptron.c	/^static PyObject *__pyx_codeobj__26;$/;"	v	file:
+__pyx_codeobj__28	perceptron.c	/^static PyObject *__pyx_codeobj__28;$/;"	v	file:
+__pyx_cython_runtime	perceptron.c	/^static PyObject *__pyx_cython_runtime;$/;"	v	file:
+__pyx_d	perceptron.c	/^static PyObject *__pyx_d;$/;"	v	file:
+__pyx_empty_bytes	perceptron.c	/^static PyObject *__pyx_empty_bytes;$/;"	v	file:
+__pyx_empty_tuple	perceptron.c	/^static PyObject *__pyx_empty_tuple;$/;"	v	file:
+__pyx_empty_unicode	perceptron.c	/^static PyObject *__pyx_empty_unicode;$/;"	v	file:
+__pyx_f	perceptron.c	/^static const char *__pyx_f[] = {$/;"	v	file:
+__pyx_filename	perceptron.c	/^static const char *__pyx_filename;$/;"	v	file:
+__pyx_find_code_object	perceptron.c	/^static PyCodeObject *__pyx_find_code_object(int code_line) {$/;"	f	file:
+__pyx_float_0_1	perceptron.c	/^static PyObject *__pyx_float_0_1;$/;"	v	file:
+__pyx_float_neg__1	perceptron.c	/^static PyObject *__pyx_float_neg__1;$/;"	v	file:
+__pyx_insert_code_object	perceptron.c	/^static void __pyx_insert_code_object(int code_line, PyCodeObject* code_object) {$/;"	f	file:
+__pyx_int_0	perceptron.c	/^static PyObject *__pyx_int_0;$/;"	v	file:
+__pyx_int_1	perceptron.c	/^static PyObject *__pyx_int_1;$/;"	v	file:
+__pyx_int_10000	perceptron.c	/^static PyObject *__pyx_int_10000;$/;"	v	file:
+__pyx_int_2	perceptron.c	/^static PyObject *__pyx_int_2;$/;"	v	file:
+__pyx_int_5	perceptron.c	/^static PyObject *__pyx_int_5;$/;"	v	file:
+__pyx_int_neg_1	perceptron.c	/^static PyObject *__pyx_int_neg_1;$/;"	v	file:
+__pyx_k_Data_is_linearly_separable	perceptron.c	/^static const char __pyx_k_Data_is_linearly_separable[] = "Data is linearly separable.";$/;"	v	file:
+__pyx_k_Final_Output	perceptron.c	/^static const char __pyx_k_Final_Output[] = "Final Output";$/;"	v	file:
+__pyx_k_It_took_d_iterations_to_find_sep	perceptron.c	/^static const char __pyx_k_It_took_d_iterations_to_find_sep[] = "It took %d iterations to find separating line";$/;"	v	file:
+__pyx_k_It_took_d_updates_to_find_separa	perceptron.c	/^static const char __pyx_k_It_took_d_updates_to_find_separa[] = "It took %d updates to find separating line";$/;"	v	file:
+__pyx_k_Iteration	perceptron.c	/^static const char __pyx_k_Iteration[] = "Iteration ";$/;"	v	file:
+__pyx_k_Linearly_separable_line_not_iden	perceptron.c	/^static const char __pyx_k_Linearly_separable_line_not_iden[] = "Linearly separable line not identified after %d iterations.";$/;"	v	file:
+__pyx_k_T	perceptron.c	/^static const char __pyx_k_T[] = "T";$/;"	v	file:
+__pyx_k_X_Data	perceptron.c	/^static const char __pyx_k_X_Data[] = "X Data";$/;"	v	file:
+__pyx_k_Y_Data	perceptron.c	/^static const char __pyx_k_Y_Data[] = "Y Data";$/;"	v	file:
+__pyx_k__10	perceptron.c	/^static const char __pyx_k__10[] = " ";$/;"	v	file:
+__pyx_k__22	perceptron.c	/^static const char __pyx_k__22[] = "*";$/;"	v	file:
+__pyx_k_a_t	perceptron.c	/^static const char __pyx_k_a_t[] = "a_t";$/;"	v	file:
+__pyx_k_array	perceptron.c	/^static const char __pyx_k_array[] = "array";$/;"	v	file:
+__pyx_k_blue	perceptron.c	/^static const char __pyx_k_blue[] = "blue";$/;"	v	file:
+__pyx_k_c	perceptron.c	/^static const char __pyx_k_c[] = "c";$/;"	v	file:
+__pyx_k_clf	perceptron.c	/^static const char __pyx_k_clf[] = "clf";$/;"	v	file:
+__pyx_k_cline_in_traceback	perceptron.c	/^static const char __pyx_k_cline_in_traceback[] = "cline_in_traceback";$/;"	v	file:
+__pyx_k_color	perceptron.c	/^static const char __pyx_k_color[] = "color";$/;"	v	file:
+__pyx_k_corrected	perceptron.c	/^static const char __pyx_k_corrected[] = "corrected";$/;"	v	file:
+__pyx_k_data	perceptron.c	/^static const char __pyx_k_data[] = "data";$/;"	v	file:
+__pyx_k_data_1	perceptron.c	/^static const char __pyx_k_data_1[] = "data_1";$/;"	v	file:
+__pyx_k_data_2	perceptron.c	/^static const char __pyx_k_data_2[] = "data_2";$/;"	v	file:
+__pyx_k_data_perceptrondat1	perceptron.c	/^static const char __pyx_k_data_perceptrondat1[] = "data\/perceptrondat1";$/;"	v	file:
+__pyx_k_data_perceptrondat2	perceptron.c	/^static const char __pyx_k_data_perceptrondat2[] = "data\/perceptrondat2";$/;"	v	file:
+__pyx_k_delimiter	perceptron.c	/^static const char __pyx_k_delimiter[] = "delimiter";$/;"	v	file:
+__pyx_k_done	perceptron.c	/^static const char __pyx_k_done[] = "done";$/;"	v	file:
+__pyx_k_dtype	perceptron.c	/^static const char __pyx_k_dtype[] = "dtype";$/;"	v	file:
+__pyx_k_end	perceptron.c	/^static const char __pyx_k_end[] = "end";$/;"	v	file:
+__pyx_k_fig	perceptron.c	/^static const char __pyx_k_fig[] = "fig";$/;"	v	file:
+__pyx_k_figure	perceptron.c	/^static const char __pyx_k_figure[] = "figure";$/;"	v	file:
+__pyx_k_file	perceptron.c	/^static const char __pyx_k_file[] = "file";$/;"	v	file:
+__pyx_k_g_x	perceptron.c	/^static const char __pyx_k_g_x[] = "g_x";$/;"	v	file:
+__pyx_k_graph_data	perceptron.c	/^static const char __pyx_k_graph_data[] = "graph_data";$/;"	v	file:
+__pyx_k_graph_vector	perceptron.c	/^static const char __pyx_k_graph_vector[] = "graph_vector";$/;"	v	file:
+__pyx_k_hstack	perceptron.c	/^static const char __pyx_k_hstack[] = "hstack";$/;"	v	file:
+__pyx_k_i	perceptron.c	/^static const char __pyx_k_i[] = "i";$/;"	v	file:
+__pyx_k_import	perceptron.c	/^static const char __pyx_k_import[] = "__import__";$/;"	v	file:
+__pyx_k_iterations	perceptron.c	/^static const char __pyx_k_iterations[] = "iterations";$/;"	v	file:
+__pyx_k_loadtxt	perceptron.c	/^static const char __pyx_k_loadtxt[] = "loadtxt";$/;"	v	file:
+__pyx_k_main	perceptron.c	/^static const char __pyx_k_main[] = "__main__";$/;"	v	file:
+__pyx_k_main_2	perceptron.c	/^static const char __pyx_k_main_2[] = "main";$/;"	v	file:
+__pyx_k_matmul	perceptron.c	/^static const char __pyx_k_matmul[] = "matmul";$/;"	v	file:
+__pyx_k_matplotlib_pyplot	perceptron.c	/^static const char __pyx_k_matplotlib_pyplot[] = "matplotlib.pyplot";$/;"	v	file:
+__pyx_k_max	perceptron.c	/^static const char __pyx_k_max[] = "max";$/;"	v	file:
+__pyx_k_min	perceptron.c	/^static const char __pyx_k_min[] = "min";$/;"	v	file:
+__pyx_k_min_max	perceptron.c	/^static const char __pyx_k_min_max[] = "min_max";$/;"	v	file:
+__pyx_k_mu	perceptron.c	/^static const char __pyx_k_mu[] = "mu";$/;"	v	file:
+__pyx_k_name	perceptron.c	/^static const char __pyx_k_name[] = "__name__";$/;"	v	file:
+__pyx_k_np	perceptron.c	/^static const char __pyx_k_np[] = "np";$/;"	v	file:
+__pyx_k_numpy	perceptron.c	/^static const char __pyx_k_numpy[] = "numpy";$/;"	v	file:
+__pyx_k_ones	perceptron.c	/^static const char __pyx_k_ones[] = "ones";$/;"	v	file:
+__pyx_k_pause	perceptron.c	/^static const char __pyx_k_pause[] = "pause";$/;"	v	file:
+__pyx_k_perceptron	perceptron.c	/^static const char __pyx_k_perceptron[] = "perceptron";$/;"	v	file:
+__pyx_k_perceptron_pyx	perceptron.c	/^static const char __pyx_k_perceptron_pyx[] = "perceptron.pyx";$/;"	v	file:
+__pyx_k_plot	perceptron.c	/^static const char __pyx_k_plot[] = "plot";$/;"	v	file:
+__pyx_k_plt	perceptron.c	/^static const char __pyx_k_plt[] = "plt";$/;"	v	file:
+__pyx_k_print	perceptron.c	/^static const char __pyx_k_print[] = "print";$/;"	v	file:
+__pyx_k_range	perceptron.c	/^static const char __pyx_k_range[] = "range";$/;"	v	file:
+__pyx_k_red	perceptron.c	/^static const char __pyx_k_red[] = "red";$/;"	v	file:
+__pyx_k_scatter	perceptron.c	/^static const char __pyx_k_scatter[] = "scatter";$/;"	v	file:
+__pyx_k_show	perceptron.c	/^static const char __pyx_k_show[] = "show";$/;"	v	file:
+__pyx_k_test	perceptron.c	/^static const char __pyx_k_test[] = "__test__";$/;"	v	file:
+__pyx_k_times_updated	perceptron.c	/^static const char __pyx_k_times_updated[] = "times_updated";$/;"	v	file:
+__pyx_k_title	perceptron.c	/^static const char __pyx_k_title[] = "title";$/;"	v	file:
+__pyx_k_tmp	perceptron.c	/^static const char __pyx_k_tmp[] = "tmp";$/;"	v	file:
+__pyx_k_vstack	perceptron.c	/^static const char __pyx_k_vstack[] = "vstack";$/;"	v	file:
+__pyx_k_x_max	perceptron.c	/^static const char __pyx_k_x_max[] = "x_max";$/;"	v	file:
+__pyx_k_x_min	perceptron.c	/^static const char __pyx_k_x_min[] = "x_min";$/;"	v	file:
+__pyx_k_xlabel	perceptron.c	/^static const char __pyx_k_xlabel[] = "xlabel";$/;"	v	file:
+__pyx_k_xlim	perceptron.c	/^static const char __pyx_k_xlim[] = "xlim";$/;"	v	file:
+__pyx_k_y_i	perceptron.c	/^static const char __pyx_k_y_i[] = "y_i";$/;"	v	file:
+__pyx_k_y_max	perceptron.c	/^static const char __pyx_k_y_max[] = "y_max";$/;"	v	file:
+__pyx_k_y_min	perceptron.c	/^static const char __pyx_k_y_min[] = "y_min";$/;"	v	file:
+__pyx_k_ylabel	perceptron.c	/^static const char __pyx_k_ylabel[] = "ylabel";$/;"	v	file:
+__pyx_k_ylim	perceptron.c	/^static const char __pyx_k_ylim[] = "ylim";$/;"	v	file:
+__pyx_kp_s_Data_is_linearly_separable	perceptron.c	/^static PyObject *__pyx_kp_s_Data_is_linearly_separable;$/;"	v	file:
+__pyx_kp_s_Final_Output	perceptron.c	/^static PyObject *__pyx_kp_s_Final_Output;$/;"	v	file:
+__pyx_kp_s_It_took_d_iterations_to_find_sep	perceptron.c	/^static PyObject *__pyx_kp_s_It_took_d_iterations_to_find_sep;$/;"	v	file:
+__pyx_kp_s_It_took_d_updates_to_find_separa	perceptron.c	/^static PyObject *__pyx_kp_s_It_took_d_updates_to_find_separa;$/;"	v	file:
+__pyx_kp_s_Iteration	perceptron.c	/^static PyObject *__pyx_kp_s_Iteration;$/;"	v	file:
+__pyx_kp_s_Linearly_separable_line_not_iden	perceptron.c	/^static PyObject *__pyx_kp_s_Linearly_separable_line_not_iden;$/;"	v	file:
+__pyx_kp_s_X_Data	perceptron.c	/^static PyObject *__pyx_kp_s_X_Data;$/;"	v	file:
+__pyx_kp_s_Y_Data	perceptron.c	/^static PyObject *__pyx_kp_s_Y_Data;$/;"	v	file:
+__pyx_kp_s__10	perceptron.c	/^static PyObject *__pyx_kp_s__10;$/;"	v	file:
+__pyx_kp_s_data_perceptrondat1	perceptron.c	/^static PyObject *__pyx_kp_s_data_perceptrondat1;$/;"	v	file:
+__pyx_kp_s_data_perceptrondat2	perceptron.c	/^static PyObject *__pyx_kp_s_data_perceptrondat2;$/;"	v	file:
+__pyx_kp_s_perceptron_pyx	perceptron.c	/^static PyObject *__pyx_kp_s_perceptron_pyx;$/;"	v	file:
+__pyx_lineno	perceptron.c	/^static int __pyx_lineno;$/;"	v	file:
+__pyx_m	perceptron.c	/^static PyObject *__pyx_m;$/;"	v	file:
+__pyx_mdef_10perceptron_1graph_vector	perceptron.c	/^static PyMethodDef __pyx_mdef_10perceptron_1graph_vector = {"graph_vector", (PyCFunction)__pyx_pw_10perceptron_1graph_vector, METH_VARARGS|METH_KEYWORDS, 0};$/;"	v	file:
+__pyx_mdef_10perceptron_3graph_data	perceptron.c	/^static PyMethodDef __pyx_mdef_10perceptron_3graph_data = {"graph_data", (PyCFunction)__pyx_pw_10perceptron_3graph_data, METH_VARARGS|METH_KEYWORDS, 0};$/;"	v	file:
+__pyx_mdef_10perceptron_5main	perceptron.c	/^static PyMethodDef __pyx_mdef_10perceptron_5main = {"main", (PyCFunction)__pyx_pw_10perceptron_5main, METH_NOARGS, 0};$/;"	v	file:
+__pyx_methods	perceptron.c	/^static PyMethodDef __pyx_methods[] = {$/;"	v	file:
+__pyx_module_is_main_perceptron	perceptron.c	/^int __pyx_module_is_main_perceptron = 0;$/;"	v
+__pyx_moduledef	perceptron.c	/^static struct PyModuleDef __pyx_moduledef = {$/;"	v	typeref:struct:PyModuleDef	file:
+__pyx_n_s_T	perceptron.c	/^static PyObject *__pyx_n_s_T;$/;"	v	file:
+__pyx_n_s__22	perceptron.c	/^static PyObject *__pyx_n_s__22;$/;"	v	file:
+__pyx_n_s_a_t	perceptron.c	/^static PyObject *__pyx_n_s_a_t;$/;"	v	file:
+__pyx_n_s_array	perceptron.c	/^static PyObject *__pyx_n_s_array;$/;"	v	file:
+__pyx_n_s_blue	perceptron.c	/^static PyObject *__pyx_n_s_blue;$/;"	v	file:
+__pyx_n_s_c	perceptron.c	/^static PyObject *__pyx_n_s_c;$/;"	v	file:
+__pyx_n_s_clf	perceptron.c	/^static PyObject *__pyx_n_s_clf;$/;"	v	file:
+__pyx_n_s_cline_in_traceback	perceptron.c	/^static PyObject *__pyx_n_s_cline_in_traceback;$/;"	v	file:
+__pyx_n_s_color	perceptron.c	/^static PyObject *__pyx_n_s_color;$/;"	v	file:
+__pyx_n_s_corrected	perceptron.c	/^static PyObject *__pyx_n_s_corrected;$/;"	v	file:
+__pyx_n_s_data	perceptron.c	/^static PyObject *__pyx_n_s_data;$/;"	v	file:
+__pyx_n_s_data_1	perceptron.c	/^static PyObject *__pyx_n_s_data_1;$/;"	v	file:
+__pyx_n_s_data_2	perceptron.c	/^static PyObject *__pyx_n_s_data_2;$/;"	v	file:
+__pyx_n_s_delimiter	perceptron.c	/^static PyObject *__pyx_n_s_delimiter;$/;"	v	file:
+__pyx_n_s_done	perceptron.c	/^static PyObject *__pyx_n_s_done;$/;"	v	file:
+__pyx_n_s_dtype	perceptron.c	/^static PyObject *__pyx_n_s_dtype;$/;"	v	file:
+__pyx_n_s_end	perceptron.c	/^static PyObject *__pyx_n_s_end;$/;"	v	file:
+__pyx_n_s_fig	perceptron.c	/^static PyObject *__pyx_n_s_fig;$/;"	v	file:
+__pyx_n_s_figure	perceptron.c	/^static PyObject *__pyx_n_s_figure;$/;"	v	file:
+__pyx_n_s_file	perceptron.c	/^static PyObject *__pyx_n_s_file;$/;"	v	file:
+__pyx_n_s_g_x	perceptron.c	/^static PyObject *__pyx_n_s_g_x;$/;"	v	file:
+__pyx_n_s_graph_data	perceptron.c	/^static PyObject *__pyx_n_s_graph_data;$/;"	v	file:
+__pyx_n_s_graph_vector	perceptron.c	/^static PyObject *__pyx_n_s_graph_vector;$/;"	v	file:
+__pyx_n_s_hstack	perceptron.c	/^static PyObject *__pyx_n_s_hstack;$/;"	v	file:
+__pyx_n_s_i	perceptron.c	/^static PyObject *__pyx_n_s_i;$/;"	v	file:
+__pyx_n_s_import	perceptron.c	/^static PyObject *__pyx_n_s_import;$/;"	v	file:
+__pyx_n_s_iterations	perceptron.c	/^static PyObject *__pyx_n_s_iterations;$/;"	v	file:
+__pyx_n_s_loadtxt	perceptron.c	/^static PyObject *__pyx_n_s_loadtxt;$/;"	v	file:
+__pyx_n_s_main	perceptron.c	/^static PyObject *__pyx_n_s_main;$/;"	v	file:
+__pyx_n_s_main_2	perceptron.c	/^static PyObject *__pyx_n_s_main_2;$/;"	v	file:
+__pyx_n_s_matmul	perceptron.c	/^static PyObject *__pyx_n_s_matmul;$/;"	v	file:
+__pyx_n_s_matplotlib_pyplot	perceptron.c	/^static PyObject *__pyx_n_s_matplotlib_pyplot;$/;"	v	file:
+__pyx_n_s_max	perceptron.c	/^static PyObject *__pyx_n_s_max;$/;"	v	file:
+__pyx_n_s_min	perceptron.c	/^static PyObject *__pyx_n_s_min;$/;"	v	file:
+__pyx_n_s_min_max	perceptron.c	/^static PyObject *__pyx_n_s_min_max;$/;"	v	file:
+__pyx_n_s_mu	perceptron.c	/^static PyObject *__pyx_n_s_mu;$/;"	v	file:
+__pyx_n_s_name	perceptron.c	/^static PyObject *__pyx_n_s_name;$/;"	v	file:
+__pyx_n_s_np	perceptron.c	/^static PyObject *__pyx_n_s_np;$/;"	v	file:
+__pyx_n_s_numpy	perceptron.c	/^static PyObject *__pyx_n_s_numpy;$/;"	v	file:
+__pyx_n_s_ones	perceptron.c	/^static PyObject *__pyx_n_s_ones;$/;"	v	file:
+__pyx_n_s_pause	perceptron.c	/^static PyObject *__pyx_n_s_pause;$/;"	v	file:
+__pyx_n_s_perceptron	perceptron.c	/^static PyObject *__pyx_n_s_perceptron;$/;"	v	file:
+__pyx_n_s_plot	perceptron.c	/^static PyObject *__pyx_n_s_plot;$/;"	v	file:
+__pyx_n_s_plt	perceptron.c	/^static PyObject *__pyx_n_s_plt;$/;"	v	file:
+__pyx_n_s_print	perceptron.c	/^static PyObject *__pyx_n_s_print;$/;"	v	file:
+__pyx_n_s_range	perceptron.c	/^static PyObject *__pyx_n_s_range;$/;"	v	file:
+__pyx_n_s_red	perceptron.c	/^static PyObject *__pyx_n_s_red;$/;"	v	file:
+__pyx_n_s_scatter	perceptron.c	/^static PyObject *__pyx_n_s_scatter;$/;"	v	file:
+__pyx_n_s_show	perceptron.c	/^static PyObject *__pyx_n_s_show;$/;"	v	file:
+__pyx_n_s_test	perceptron.c	/^static PyObject *__pyx_n_s_test;$/;"	v	file:
+__pyx_n_s_times_updated	perceptron.c	/^static PyObject *__pyx_n_s_times_updated;$/;"	v	file:
+__pyx_n_s_title	perceptron.c	/^static PyObject *__pyx_n_s_title;$/;"	v	file:
+__pyx_n_s_tmp	perceptron.c	/^static PyObject *__pyx_n_s_tmp;$/;"	v	file:
+__pyx_n_s_vstack	perceptron.c	/^static PyObject *__pyx_n_s_vstack;$/;"	v	file:
+__pyx_n_s_x_max	perceptron.c	/^static PyObject *__pyx_n_s_x_max;$/;"	v	file:
+__pyx_n_s_x_min	perceptron.c	/^static PyObject *__pyx_n_s_x_min;$/;"	v	file:
+__pyx_n_s_xlabel	perceptron.c	/^static PyObject *__pyx_n_s_xlabel;$/;"	v	file:
+__pyx_n_s_xlim	perceptron.c	/^static PyObject *__pyx_n_s_xlim;$/;"	v	file:
+__pyx_n_s_y_i	perceptron.c	/^static PyObject *__pyx_n_s_y_i;$/;"	v	file:
+__pyx_n_s_y_max	perceptron.c	/^static PyObject *__pyx_n_s_y_max;$/;"	v	file:
+__pyx_n_s_y_min	perceptron.c	/^static PyObject *__pyx_n_s_y_min;$/;"	v	file:
+__pyx_n_s_ylabel	perceptron.c	/^static PyObject *__pyx_n_s_ylabel;$/;"	v	file:
+__pyx_n_s_ylim	perceptron.c	/^static PyObject *__pyx_n_s_ylim;$/;"	v	file:
+__pyx_pf_10perceptron_2graph_data	perceptron.c	/^static PyObject *__pyx_pf_10perceptron_2graph_data(CYTHON_UNUSED PyObject *__pyx_self, PyObject *__pyx_v_data, PyObject *__pyx_v_color) {$/;"	f	file:
+__pyx_pf_10perceptron_4main	perceptron.c	/^static PyObject *__pyx_pf_10perceptron_4main(CYTHON_UNUSED PyObject *__pyx_self) {$/;"	f	file:
+__pyx_pf_10perceptron_graph_vector	perceptron.c	/^static PyObject *__pyx_pf_10perceptron_graph_vector(CYTHON_UNUSED PyObject *__pyx_self, PyObject *__pyx_v_a_t, PyObject *__pyx_v_min_max, PyObject *__pyx_v_data_1, PyObject *__pyx_v_data_2, PyObject *__pyx_v_title) {$/;"	f	file:
+__pyx_print	perceptron.c	/^static PyObject* __pyx_print = 0;$/;"	v	file:
+__pyx_print_kwargs	perceptron.c	/^static PyObject* __pyx_print_kwargs = 0;$/;"	v	file:
+__pyx_pw_10perceptron_1graph_vector	perceptron.c	/^static PyObject *__pyx_pw_10perceptron_1graph_vector(PyObject *__pyx_self, PyObject *__pyx_args, PyObject *__pyx_kwds) {$/;"	f	file:
+__pyx_pw_10perceptron_3graph_data	perceptron.c	/^static PyObject *__pyx_pw_10perceptron_3graph_data(PyObject *__pyx_self, PyObject *__pyx_args, PyObject *__pyx_kwds) {$/;"	f	file:
+__pyx_pw_10perceptron_5main	perceptron.c	/^static PyObject *__pyx_pw_10perceptron_5main(PyObject *__pyx_self, CYTHON_UNUSED PyObject *unused) {$/;"	f	file:
+__pyx_slice__12	perceptron.c	/^static PyObject *__pyx_slice__12;$/;"	v	file:
+__pyx_slice__14	perceptron.c	/^static PyObject *__pyx_slice__14;$/;"	v	file:
+__pyx_slice__16	perceptron.c	/^static PyObject *__pyx_slice__16;$/;"	v	file:
+__pyx_slice__18	perceptron.c	/^static PyObject *__pyx_slice__18;$/;"	v	file:
+__pyx_slice__3	perceptron.c	/^static PyObject *__pyx_slice__3;$/;"	v	file:
+__pyx_slice__4	perceptron.c	/^static PyObject *__pyx_slice__4;$/;"	v	file:
+__pyx_slice__5	perceptron.c	/^static PyObject *__pyx_slice__5;$/;"	v	file:
+__pyx_slice__7	perceptron.c	/^static PyObject *__pyx_slice__7;$/;"	v	file:
+__pyx_string_tab	perceptron.c	/^static __Pyx_StringTabEntry __pyx_string_tab[] = {$/;"	v	file:
+__pyx_tuple_	perceptron.c	/^static PyObject *__pyx_tuple_;$/;"	v	file:
+__pyx_tuple__11	perceptron.c	/^static PyObject *__pyx_tuple__11;$/;"	v	file:
+__pyx_tuple__13	perceptron.c	/^static PyObject *__pyx_tuple__13;$/;"	v	file:
+__pyx_tuple__15	perceptron.c	/^static PyObject *__pyx_tuple__15;$/;"	v	file:
+__pyx_tuple__17	perceptron.c	/^static PyObject *__pyx_tuple__17;$/;"	v	file:
+__pyx_tuple__19	perceptron.c	/^static PyObject *__pyx_tuple__19;$/;"	v	file:
+__pyx_tuple__2	perceptron.c	/^static PyObject *__pyx_tuple__2;$/;"	v	file:
+__pyx_tuple__20	perceptron.c	/^static PyObject *__pyx_tuple__20;$/;"	v	file:
+__pyx_tuple__21	perceptron.c	/^static PyObject *__pyx_tuple__21;$/;"	v	file:
+__pyx_tuple__23	perceptron.c	/^static PyObject *__pyx_tuple__23;$/;"	v	file:
+__pyx_tuple__25	perceptron.c	/^static PyObject *__pyx_tuple__25;$/;"	v	file:
+__pyx_tuple__27	perceptron.c	/^static PyObject *__pyx_tuple__27;$/;"	v	file:
+__pyx_tuple__6	perceptron.c	/^static PyObject *__pyx_tuple__6;$/;"	v	file:
+__pyx_tuple__8	perceptron.c	/^static PyObject *__pyx_tuple__8;$/;"	v	file:
+__pyx_tuple__9	perceptron.c	/^static PyObject *__pyx_tuple__9;$/;"	v	file:
+__stdcall	perceptron.c	17;"	d	file:
+am_aiter	perceptron.c	/^        unaryfunc am_aiter;$/;"	m	struct:__anon1	file:
+am_anext	perceptron.c	/^        unaryfunc am_anext;$/;"	m	struct:__anon1	file:
+am_await	perceptron.c	/^        unaryfunc am_await;$/;"	m	struct:__anon1	file:
+code_line	perceptron.c	/^    int code_line;$/;"	m	struct:__anon4	file:
+code_object	perceptron.c	/^    PyCodeObject* code_object;$/;"	m	struct:__anon4	file:
+count	perceptron.c	/^    int count;$/;"	m	struct:__Pyx_CodeObjectCache	file:
+encoding	perceptron.c	/^typedef struct {PyObject **p; const char *s; const Py_ssize_t n; const char* encoding;$/;"	m	struct:__anon2	file:
+entries	perceptron.c	/^    __Pyx_CodeObjectCacheEntry* entries;$/;"	m	struct:__Pyx_CodeObjectCache	file:
+graph_data	perceptron.pyx	/^def graph_data(data,color):$/;"	f
+graph_vector	perceptron.pyx	/^def graph_vector(a_t, min_max, data_1, data_2, title):$/;"	f
+initperceptron	perceptron.c	/^PyMODINIT_FUNC initperceptron(void)$/;"	f
+intern	perceptron.c	/^                const char is_unicode; const char is_str; const char intern; } __Pyx_StringTabEntry;$/;"	m	struct:__anon2	file:
+is_str	perceptron.c	/^                const char is_unicode; const char is_str; const char intern; } __Pyx_StringTabEntry;$/;"	m	struct:__anon2	file:
+is_unicode	perceptron.c	/^                const char is_unicode; const char is_str; const char intern; } __Pyx_StringTabEntry;$/;"	m	struct:__anon2	file:
+likely	perceptron.c	650;"	d	file:
+likely	perceptron.c	653;"	d	file:
+main	perceptron.c	/^int main(int argc, char** argv) {$/;"	f
+main	perceptron.c	/^main(int argc, char **argv)$/;"	f
+main	perceptron.pyx	/^def main():$/;"	f
+max_count	perceptron.c	/^    int max_count;$/;"	m	struct:__Pyx_CodeObjectCache	file:
+n	perceptron.c	/^typedef struct {PyObject **p; const char *s; const Py_ssize_t n; const char* encoding;$/;"	m	struct:__anon2	file:
+offsetof	perceptron.c	13;"	d	file:
+p	perceptron.c	/^typedef struct {PyObject **p; const char *s; const Py_ssize_t n; const char* encoding;$/;"	m	struct:__anon2	file:
+s	perceptron.c	/^typedef struct {PyObject **p; const char *s; const Py_ssize_t n; const char* encoding;$/;"	m	struct:__anon2	file:
+uint32_t	perceptron.c	/^           typedef unsigned __int32  uint32_t;$/;"	t	file:
+uint32_t	perceptron.c	/^           typedef unsigned int      uint32_t;$/;"	t	file:
+uint8_t	perceptron.c	/^           typedef unsigned __int8   uint8_t;$/;"	t	file:
+uint8_t	perceptron.c	/^           typedef unsigned char     uint8_t;$/;"	t	file:
+unlikely	perceptron.c	651;"	d	file:
+unlikely	perceptron.c	654;"	d	file:

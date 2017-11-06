@@ -1,0 +1,234 @@
+\title { Perceptron       }
+\author{ Clint Ferrin     }
+\date  { Mon Sep 18, 2017 }
+\def\class { Neural Networks: ECE 5930 }
+\documentclass{article}\makeatletter
+
+\newcommand{\main} {
+   % document setup
+   \pageSetup
+   \createTitlePage
+   \includeHeader
+   \createTableOfContents
+
+   % content
+   \programListing
+   \dataPlots
+   \discussion
+}
+
+%  ┌────────────────────────┐
+%  │     Extra Packages     │
+%  └────────────────────────┘
+    \usepackage[utf8]{inputenc}	% allows new character options
+    \usepackage[a4paper]{geometry}   % Paper dimensions and margins
+    \usepackage{fancyhdr}   % include document header
+    \usepackage{amsmath}    % allows equations to be split
+    \usepackage{enumitem}   % create lists
+    \usepackage{graphicx}	% manage images and graphics
+    \usepackage{hyperref}	% creates hyper-link color options
+    \usepackage{cleveref}	% (\Cref) include "Figure" on \reff 
+    \usepackage{xparse}     % include high performing functions 
+    \usepackage{xstring}    % StrSubstitute replace character
+    \usepackage{floatrow}	% allows placement of figures [H]
+    \usepackage{url}    	% package for url links
+    \usepackage{titletoc}   % change Table of Contents settings
+    \usepackage{caption}    % removes figure from LoF: \caption[]{}
+    \usepackage{listings, lstautogobble} % includes ability to input code
+    \usepackage{color}
+
+
+    \definecolor{mygreen}{RGB}{28,172,0}	% custom defined colors
+    \definecolor{mylilas}{RGB}{170,55,241}
+    \definecolor{mymauve}{rgb}{0.58,0,0.82}
+    \lstset {
+        language=Python,
+        breaklines		= true,
+        keywordstyle    = \color{blue},
+        morekeywords    = [2]{1}, keywordstyle=[2]{\color{black}},
+        identifierstyle = \color{black},
+        stringstyle     = \color{mylilas},
+        commentstyle    = \color{mygreen},
+        numbers         = left,
+        numberstyle     = {\tiny \color{black}},	% size of the numbers
+        numbersep       = 6pt, 						% distance of numbers from text
+        emph            = [1]{as, for, end, break}, % bold for, end, break...
+        emphstyle 		= [1]\color{red}, 			% emphasis
+        basicstyle		= \footnotesize\ttfamily,	% set font to courier
+        frameround      = ffff,                     % TR, BR, BL, TL. t(round)|f(flat)
+        frame           = single,                   % single line all around
+        showstringspaces= false,                    % blank spaces appear as written
+        autogobble      = true
+    }
+%  ┌────────────────────────┐
+%  │   General Functions    │
+%  └────────────────────────┘
+    \DeclareDocumentCommand{\reff}{m} {
+        \edef\link{#1}
+        \hspace{-0.5em}\hyperref[\link]{\Cref*{\link}} \hspace{-0.65em}
+    }
+
+    \DeclareDocumentCommand{\newFigure}{m o o o} {
+        \edef\path{#1} \edef\figcaption{#2} \edef\size{#3}  
+        % add label to figure
+        \StrSubstitute{#1}{.pdf}{}[\temp]
+        \StrSubstitute{\temp}{.jpg}{}[\temp]
+        \StrSubstitute{\temp}{.png}{}[\temp]
+        \expandafter\StrSubstitute\expandafter{\temp}{-}{ }[\temp]
+        %\label{\temp} % label gets rid of type and -.
+        
+        
+        % add size if not present
+        \IfNoValueTF{#3} { % if 2 and 3 are NULL
+            \def\size{0.75}
+            }{}
+         
+        % add caption if not present
+        \IfNoValueTF{#2} { % if 2 and 3 are NULL
+            %\expandafter\StrSubstitute\expandafter{\temp}{-}{ }[\output]
+            \newcommand\helphere{\temp}
+            \StrBehind{\helphere}{/}[\figcaption]
+        }{}
+        
+        \begin{figure}[H]
+        \begin{center}
+        \includegraphics[width=\size\textwidth]{\path}
+        % I deleted the capitalize function because it wouldn't pass []
+        % \capitalisewords{}
+        \caption{\figcaption}
+        \label{#4} % label gets rid of type and -.
+        \end{center}
+        \end{figure} 
+    }
+
+%  ┌────────────────────────┐
+%  │   Content Functions    │
+%  └────────────────────────┘
+    \newcommand{\pageSetup} {
+
+        \let\Title\@title
+        \let\Date\@date
+        \let\Author\@author
+
+        \renewcommand{\thesubsection}{\hspace{-1em}}
+        \renewcommand{\thesection}{\hspace{-1em}}
+        \renewcommand{\partname}{}
+        \renewcommand{\thepart}{}
+
+        \newgeometry{left=1in,bottom=1in,right=1in,top=1in} % page dims
+        \setlength\parindent{0pt}	% set no tab on new paragraphs
+        \parskip = \baselineskip	% set single skip after paragraphs
+        \setlist{nosep,after=\vspace{\baselineskip}} % remove space on list
+        }\hypersetup{				% hyper-links environment
+            colorlinks,
+            linkcolor	= {black},
+            citecolor	= {black},
+            urlcolor	= {black},
+            pdfborderstyle={/S/U/W 1}
+        }
+
+    \newcommand{\createTitlePage} {
+        \clearpage
+        \begin{center}
+            \thispagestyle{empty}
+            \huge{\Title} 
+
+            % line
+            \vspace{0.25em}
+            \line(1,0){250}\normalsize 
+
+            \vspace{5mm}
+            \class 
+
+            \vspace{2.5cm}
+                \begin{center}
+                \includegraphics[width=0.45\textwidth]{media/title.png}\par
+                    Figure: Linear Data Classifier
+                \end{center}
+            \vspace{2.5cm}
+
+            \Author \vspace{-1em}
+
+            Utah State University \vspace{-1em}
+
+            \Date           \vspace{-1em}
+
+            \pagenumbering{gobble} 
+            \newpage
+        \end{center}
+    }
+
+    \newcommand{\createTableOfContents} {
+        \pagenumbering{roman}
+        \clearpage
+        % \newdimen\punktik
+        % \def\cvak{\ifdim\punktik<6pt \global\punktik=3pt \else\global\punktik=3pt \fi}
+        % \def\tocdots{\cvak\leaders\hbox to10pt{\kern\punktik.\hss}\hfill}
+        % \titlecontents{section}[0em]{\vskip -1em}{}{\itshape}{\hfill\thecontentspage}
+        % \titlecontents{subsection}[1em]{\vskip -1em}{}{} {\tocdots\thecontentspage}
+        
+        \tableofcontents 
+
+        % \clearpage
+        \renewcommand*\listfigurename{\normalsize{List of Figures}}
+        \listoffigures
+
+        % \renewcommand*\listtablename{\normalsize{List of Tables}}
+        % \listoftables
+
+        \newpage
+        \pagenumbering{arabic}
+    }
+
+    \newcommand{\includeHeader} {
+        \pagestyle{fancy}
+        \fancyhf{}
+        % \fancyhead[L]{Top Left}
+        \fancyhead[L]{\Title}
+        \fancyhead[R]{\nouppercase\leftmark}
+        % \fancyhead[R]{Top Right}
+        \renewcommand{\headrulewidth}{0.5pt}
+        %\fancyfoot[L]{Bottom Left}
+        \fancyfoot[C]{\thepage}
+        %\fancyfoot[R]{Bottom Right}
+        \renewcommand{\footrulewidth}{0.5pt}
+    }
+
+    \DeclareDocumentCommand{\programListing}{} {
+        \section{Program Listings}
+        \lstinputlisting[language=Python]{../perceptron.pyx}
+    } 
+    \DeclareDocumentCommand{\dataPlots}{} {
+        \section{Plots of Data}
+        \newFigure{media/Combined.pdf}[Iterations 1 through 8][1]
+        \newFigure{media/Final.png}[Final Line Output][0.6]
+        The Perceptron algorithm was able to settle on a new line after 9 updates of the vector $a_t$ and four times through the for loop as seen in the previous image.
+    } 
+    \DeclareDocumentCommand{\discussion}{} {
+        \section{Discussion Questions}
+        \subsection{Analyzing the Data} 
+        \newFigure{media/seperable.png}[Linearly Seperable][0.6][fig:test]
+        As seen in \reff{fig:test}, the data appears to be linearly separable. 
+
+        \subsection{Different A Values} 
+        When different values of $a$ are chosen, the program takes more or less time to converge to a specific value. 
+        
+        For example, when the $a$ vector was set to $a_t = [-.1, 1, 1]$ the program only took 4 updates to the vector $a_t$ and 3 iterations through the for loop to find the correct line. Additionally, the line was more centered between the two data sets than when I used an initial value of $a_t = [1, 1, 1]$. 
+
+        The initial guess for the data is important when determining the fastest approach to the correct value.
+
+        Another example is when $a_t = [-1, 90, 90]$. In this case, the step size plays an important role. If the step size is too small, it will take a very long time for the graph to converge. In this case it took 71 iterations and 111 updates. 
+
+
+        \subsection{Data Not Linearly Separable} 
+        When the data is no longer linearly separable, the program will run continuously without a break statement.
+        
+        \newFigure{media/not-lin.png}[Not Linearly Separable][0.6][fig:not-lin]
+        When I ran the code seen in \reff{fig:not-lin}, the program began to jump back and forth around the misplaced point. The program will continue to run forever, but I included a statement that will stop the program from running after 10000 unsuccessful iterations.
+
+        Another possible approach to avoid the problem might be to create a count that increments every time the program does not send the line in the same direction as previously. If the program reaches a certain amount of switchbacks (i.e., 15), then you can know the data is not linearly separable.
+    } 
+
+\begin{document}
+    \main
+\end{document}
